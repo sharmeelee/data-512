@@ -16,14 +16,14 @@ Licensed and subject to terms of use: https://www.mediawiki.org/wiki/REST_API#Te
   
 ## Output: en-wikipedia_traffic_200712-202008.csv
   - Fields
-    - year: Yearly timestamp in format YYYY
-    - month: Monthly timestamp in format MM
-    - pagecount_all_views: number of pageviews for all access types in the legacy data
-    - pagecount_desktop_views: number of pageviews for desktop-site access in the legacy data
-    - pagecount_mobile_views: number of pageviews for mobile-site access in the legacy data
-    - pageview_all_views: number of pageviews for all access types in the pageviews data
-    - pageview_desktop_views: number of pageviews for desktop access in the pageviews data
-    - pageview_mobile_views: number of pageviews for mobile-web and mobile-app access in the pageviews data
+    - year: Yearly timestamp in format YYYY, string
+    - month: Monthly timestamp in format MM, string
+    - pagecount_all_views: number of pageviews for all access types in the legacy data, integer
+    - pagecount_desktop_views: number of pageviews for desktop-site access in the legacy data, integer
+    - pagecount_mobile_views: number of pageviews for mobile-site access in the legacy data, integer
+    - pageview_all_views: number of pageviews for all access types in the pageviews data, integer
+    - pageview_desktop_views: number of pageviews for desktop access in the pageviews data, integer
+    - pageview_mobile_views: number of pageviews for mobile-web and mobile-app access in the pageviews data, integer
   
   ## Known Facts/Issues
   - data from the Pagecount API includes automated and human traffic
