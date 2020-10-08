@@ -4,7 +4,7 @@ This folder contains a tutorial for how to gather, process and analyze data from
 Utilize Wikipedia traffic APIs to analyze the pageviews of English Wikipedia on a monthly basis from different access types. 
 
 ## Source Data
-Licensed and subject to terms of use: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions. It is developed and maintained by WMF's Analytics and Services teams, and is implemented using Analytics' Hadoop cluster and RESTBase
+Licensed and subject to terms of use: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions. It is developed and maintained by WMF's Analytics and Services teams, and is implemented using Analytics' Hadoop cluster and RESTBase.
 - The Legacy Pagecounts API 
   - documentation: https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts
   - endpoint: https://wikimedia.org/api/rest_v1/#!/Pagecounts_data_(legacy)/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end
