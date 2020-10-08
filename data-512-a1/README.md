@@ -1,6 +1,6 @@
 # data-512-a1
 This folder contains a tutorial for how to gather, process and analyze data from the Wikipedia API for pageviews from different access types such as desktop and mobile sites. 
-## Goal: Utilize Wikipedia traffics APIs 
+## Goal: Utilize Wikipedia traffic APIs to analyze the pageviews of English Wikipedia on a monthly basis from different access types. 
 
 ## Source Data
 Licensed and subject to terms of use: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions. It is developed and maintained by WMF's Analytics and Services teams, and is implemented using Analytics' Hadoop cluster and RESTBase
