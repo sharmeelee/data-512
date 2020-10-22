@@ -11,7 +11,12 @@ The source data is too big to be shared in the repo, however, it can be accessed
 - Wulczyn, Ellery; Thain, Nithum; Dixon, Lucas (2017): Wikipedia Talk Corpus. figshare. Dataset. https://doi.org/10.6084/m9.figshare.4264973.v3
     
 ## Output
+Research Question 1: Are certain words more likely to be associated with comments labelled as hostile speech? Are there certain words that are frequently associated with one type of hostile speech (like “personal attacks”) but not others (like “toxicity”)?
+
 ![Screenshot](ComparisonofTopWords.png)
+
+Research Question 2: Are different demographic profiles of workers more sensitive to one type of hostile speech than another? For example, do women more frequently label comments as personal attacks than men? Is there higher frequency of female workers labelling comments as personal attacks rather than toxic?
+
 ![Screenshot](HostilityTypeDistributionByGender.png)
   
 ## Sources
