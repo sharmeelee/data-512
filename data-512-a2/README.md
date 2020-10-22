@@ -11,9 +11,8 @@ The source data is too big to be shared in the repo, however, it can be accessed
 - Wulczyn, Ellery; Thain, Nithum; Dixon, Lucas (2017): Wikipedia Talk Corpus. figshare. Dataset. https://doi.org/10.6084/m9.figshare.4264973.v3
     
 ## Output
-
-  
-## Known Facts/Issues
+![Screenshot](ComparisonofTopWords.png)
+![Screenshot](HostilityTypeDistributionByGender.png)
   
 ## Sources
 Google data scientist use this data to train models for use in a host of applications. 
